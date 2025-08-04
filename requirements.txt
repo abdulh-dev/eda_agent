@@ -1,1 +1,8 @@
 fastapi[all]
+uvicorn
+pandas
+numpy
+matplotlib
+seaborn
+openpyxl           # For reading Excel files
+python-multipart   # If you ever handle file uploads
